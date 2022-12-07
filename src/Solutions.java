@@ -23,7 +23,7 @@
 //      }
 //  }
 <<<<<<< HEAD
-    //东半球全网最简单易上手，也许是可读性最强的工具
+    //东半球全网最简单易上手，也许是可读性最强的工具 gitpushshiyan
 public class Solutions {
     public static void main(String[] args) {
         int[] test = new int[]{3, 2, 4, 7, 55};

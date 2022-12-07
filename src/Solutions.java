@@ -22,9 +22,10 @@
 //          this.right = right;
 //      }
 //  }
+    //代码转换
 public class Solutions {
     public static void main(String[] args) {
-        int[] test = new int[]{3, 2, 4, 7, 5};
+        int[] test = new int[]{3, 2, 4,  7, 5};
 
         for (int i = 0; i < test.length; i++) {
             System.out.println(test[i]);
